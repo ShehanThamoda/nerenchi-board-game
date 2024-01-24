@@ -1,1 +1,1 @@
-# ePromo
+Welcome to the Nerenchi Game AI Agents repository! This project showcases intelligent agents designed to play the game Nerenchi. Nerenchi is a challenging strategy game that requires a combination of tactical insight and strategic planning. The goal of this project is to develop robust and efficient AI agents capable of mastering the complexities of Nerenchi gameplay.
